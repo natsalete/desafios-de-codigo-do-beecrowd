@@ -13,7 +13,7 @@ int main() {
         string texto;
         getline(cin, texto);  // Usar getline para ler uma linha inteira
 
-        transform(texto.begin(), texto.end(), texto.begin(), ::tolower);
+        transform(texto.begin(), texto.end(), texto.begin(), ::tolower);  //Transforma caracteres maiusculos em minusculos 
 
         int maior = 0, cont = 0;
         string mais;
