@@ -1,5 +1,5 @@
 # Desafios-de-codigo-do-beecrowd
-Minhas resoluções dos desafios da platarfoma beecrowd.
+Minhas resoluções dos desafios da plataforma beecrowd.
 
 ## O que é o Becrowd?
 ![image](https://github.com/natsalete/desafios-de-codigo-do-beecrowd/assets/135389319/865e1f71-dcae-407c-b1f2-1964bc4ad5f9)
