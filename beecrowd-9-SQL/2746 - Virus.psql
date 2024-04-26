@@ -1,0 +1,2 @@
+SELECT REPLACE(name, 'H1', 'X') AS modified_name
+FROM virus;
