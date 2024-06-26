@@ -26,10 +26,10 @@ int diasEntre(int ano1, int mes1, int dia1, int ano2, int mes2, int dia2) {
     }
 
     int dias2 = dia2;
-    for (int i = 1; i < mes2; ++i) {
+    for (int i = 1; i < mes2; i++) {
         dias2 += diasNoMes(i, ano2);
     }
-    for (int i = 1; i < ano2; ++i) {
+    for (int i = 1; i < ano2; i++) {
         dias2 += ehAnoBissexto(i) ? 366 : 365;
     }
 
