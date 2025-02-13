@@ -1,9 +1,18 @@
-# Desafios-de-codigo-do-beecrowd
-Minhas resoluções dos desafios da plataforma beecrowd.
+# Desafios de Código do Beecrowd  
 
-## O que é o Becrowd?
-![image](https://github.com/natsalete/desafios-de-codigo-do-beecrowd/assets/135389319/865e1f71-dcae-407c-b1f2-1964bc4ad5f9)
+Minhas resoluções para os desafios da plataforma [Beecrowd](https://www.beecrowd.com.br/judge/pt).  
 
-O beecrowd está disponível para ser uma ferramenta que propicie uma disputa saudável entre os usuários além de prepará-los para as competições de programação e para o mercado de trabalho.
+## 📌 Sobre o Beecrowd  
+![Beecrowd](https://github.com/natsalete/desafios-de-codigo-do-beecrowd/assets/135389319/865e1f71-dcae-407c-b1f2-1964bc4ad5f9)  
 
-https://www.beecrowd.com.br/judge/pt
+O **Beecrowd** é uma plataforma de treinamento para programadores, proporcionando um ambiente de aprendizado e desafios que preparam os usuários para competições de programação e para o mercado de trabalho.  
+
+## 🚀 Sobre o Repositório  
+Aqui você encontrará minhas soluções para diversos problemas do Beecrowd, organizadas por dificuldade e linguagem de programação.  
+
+## 🛠️ Tecnologias Utilizadas  
+- C  
+- C++  
+
+## 📄 Licença  
+Este projeto está sob a licença MIT – consulte o arquivo [LICENSE](LICENSE) para mais detalhes.  
